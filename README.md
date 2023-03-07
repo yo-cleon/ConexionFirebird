@@ -5,4 +5,4 @@ Ejercicio básico con Java 8 para realizar una conexión a una base de datos Fir
 En la carpeta data se encuentra tanto la base de datos utilizada para el ejemplo como
 las librerías .jar para realizar la conexión.
 
-
+Añadido este proyecto como un submúdulo de otro proyecto
